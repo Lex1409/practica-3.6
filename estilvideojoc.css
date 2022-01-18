@@ -1,0 +1,27 @@
+div.titol1 {
+    color: black;
+    background-color: wheat;
+    text-align: center;
+}
+div.contacte {
+    color: black;
+    background-color: chartreuse;
+    text-align: center;
+}
+div.quisom {
+    color: black;
+    background-color: chocolate;
+}
+div.video {
+    display: inline-block
+}
+div.textinferior {
+    color: black;
+    background-color: chocolate;
+}
+div.somni {
+    color: blue;
+    
+    background-color: blue;
+    text-align: center;
+}
